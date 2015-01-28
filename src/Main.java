@@ -1,7 +1,7 @@
 public class Main {
-    private final static String UploadPolocy = "{\"scope\":\"semi\",\"deadline\":1735660800}";
-    private final static String AccessKey = "ZV65mg8TCX-_82OiOgIHcAYNG6wR06y09HvNCgJb";
-    private final static String SecretKey = "CHWYKs9w6qD3o6mtLL0KsjkKOeWF3Ocehp7YfXB0";
+    private final static String UploadPolocy = "{\"scope\":\"demo\",\"deadline\":1735660800}";
+    private final static String AccessKey = "xxx";
+    private final static String SecretKey = "xxx";
 
     public static void main(String[] args) {
 
